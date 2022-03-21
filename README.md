@@ -1,5 +1,6 @@
 # Computer-Vision
-This is a compilation of the projects that I have been developing for the computer vision course offered by KU Leuven university
+This is a compilation of the projects that I have been developing for the computer vision course offered by KU Leuven university.
+
 [Assignment 1]
   The goal of this individual assignment is to apply some basic image processing techniques
   to detect an object and produce a one minute video for submission:
